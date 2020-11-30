@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-11-24 11:03:41
- * @LastEditTime: 2020-11-27 15:25:04
+ * @LastEditTime: 2020-11-27 16:57:15
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \react-note\scaffolding.md
@@ -25,6 +25,10 @@
 ### Slider
 
 - 设置区间范围值
+
+### Button
+
+- 设置文本颜色
 
 ## 工具
 
